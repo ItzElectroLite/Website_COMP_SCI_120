@@ -4,3 +4,9 @@ float1{
 ul::first-line{
   text-decoration: underline;
 }
+:hover{
+  color: red;
+}
+:nth-child(li){
+  background-color: lightblue;
+}
