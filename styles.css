@@ -4,7 +4,8 @@ float1{
 ul::first-line{
   text-decoration: underline;
 }
-link:hover{
+link{
+  :hover;
   color: red;
 }
 ol:nth-child(li){
