@@ -10,3 +10,6 @@ ul::first-line{
 :nth-child(li){
   background-color: lightblue;
 }
+background{
+  color: lightgrey;
+}
