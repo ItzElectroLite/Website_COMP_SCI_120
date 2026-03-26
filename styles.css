@@ -1,15 +1,18 @@
 :root{
-   --font-color: 000000;
-   --bg-color: d3d3d3;
+   --font-color: #aed3e1;
+   --bg-color: #d3d3d3;
 }
 .float1{
   float: right;
 }
 a:link{
-   color: var(--font-color);
+   color: black;
 }
 a:hover{
   color: darkcyan;
+}
+body {
+  background-color: var(--bg-color);
 }
 tr:nth-child(1){
     background-color: grey;
@@ -18,11 +21,8 @@ tr:nth-child(2){
     background-color: cadetblue;
 }
 table, td{
-    border: 1px solid black;
+    border: 1px solid #000000;
 }
 p, h1, h2, h3, ul, ol, li{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-body {
-  background-color: var(--bg-color);
 }
