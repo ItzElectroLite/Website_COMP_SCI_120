@@ -14,7 +14,7 @@ a:hover{
 body {
   background-color: var(--bg-color);
 }
-table:nth-child(td){
+td:nth-child(li){
     background-color: cadetblue;
 }
 table, td{
