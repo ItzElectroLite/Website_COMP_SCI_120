@@ -23,6 +23,6 @@ tr:nth-child(2){
 table, td{
     border: 1px solid #000000;
 }
-p, h1, h2, h3, ul, ol, li{
+p, h1, h2, h3, ul, ol, li, th{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
