@@ -14,9 +14,6 @@ a:link{
 a:hover{
   color: darkcyan;
 }
-body {
-  background-color: var(--bg-color);
-}
 tr:nth-child(1){
     background-color: grey;
 }
@@ -28,4 +25,7 @@ table, td{
 }
 p, h1, h2, h3, ul, ol, li{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+  background-color: var(--bg-color);
 }
