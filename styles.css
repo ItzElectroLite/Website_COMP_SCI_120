@@ -6,15 +6,20 @@
   float: right;
 }
 a:link{
-   color: black;
+   color: darkblue;
 }
-
 a:hover{
   color: darkcyan;
 }
 ol:nth-child(li){
   background-color: lightblue;
 }
-body{
-  background-color: var (--bg-color);
+body {
+  background-color: var(--bg-color);
+}
+table:nth-child(td){
+    background-color: cadetblue;
+}
+table, td{
+    border: 1px solid black;
 }
