@@ -3,7 +3,7 @@
    --bg-color: #070040;
 }
 float1{
-  float:right;
+  float: right;
 }
 ul::first-line{
   text-decoration: underline;
