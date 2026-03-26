@@ -8,6 +8,10 @@ float1{
 ul::first-line{
   text-decoration: underline;
 }
+a:link{
+   color: black;
+}
+
 a:hover{
   color: darkcyan;
 }
