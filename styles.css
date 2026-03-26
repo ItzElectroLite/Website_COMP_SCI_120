@@ -10,7 +10,7 @@ ul::first-line{
 }
 link{
   :hover;
-  color: red;
+  color: darkcyan;
 }
 ol:nth-child(li){
   background-color: lightblue;
