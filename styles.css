@@ -2,7 +2,7 @@
    --font-color: #aed3e1;
    --bg-color: lightgrey;
 }
-float1{
+.float1{
   float: right;
 }
 ul::first-line{
