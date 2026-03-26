@@ -4,6 +4,8 @@
 }
 .float1{
   float: right;
+   width: 60;
+   height: 50;
 }
 a:link{
    color: black;
