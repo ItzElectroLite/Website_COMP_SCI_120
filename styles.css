@@ -1,18 +1,15 @@
 :root{
-   --font-color: #aed3e1;
-   --bg-color: lightgrey;
+   --font-color: black;
+   --bg-color: d3d3d3;
 }
 .float1{
   float: right;
 }
 a:link{
-   color: darkblue;
+   color: var(--font-color);
 }
 a:hover{
   color: darkcyan;
-}
-ol:nth-child(li){
-  background-color: lightblue;
 }
 body {
   background-color: var(--bg-color);
