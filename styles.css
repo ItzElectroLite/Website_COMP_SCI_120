@@ -1,0 +1,22 @@
+:root{
+   --font-color: #aed3e1;
+   --bg-color: #d3d3d3;
+}
+.float1{
+  float: right;
+}
+a:link{
+   color: black;
+}
+a:hover{
+  color: darkcyan;
+}
+body {
+  background-color: var(--bg-color);
+}
+table:nth-child(td){
+    background-color: cadetblue;
+}
+table, td{
+    border: 1px solid black;
+}
