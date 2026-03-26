@@ -8,8 +8,7 @@ float1{
 ul::first-line{
   text-decoration: underline;
 }
-a:link{
-  :hover;
+a:hover{
   color: darkcyan;
 }
 ol:nth-child(li){
