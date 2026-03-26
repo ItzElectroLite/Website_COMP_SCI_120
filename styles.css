@@ -1,12 +1,12 @@
 :root{
-   --font-color: #aed3e1;
-   --bg-color: #d3d3d3;
+   --font-color: 000000;
+   --bg-color: d3d3d3;
 }
 .float1{
   float: right;
 }
 a:link{
-   color: black;
+   color: var(--font-color);
 }
 a:hover{
   color: darkcyan;
